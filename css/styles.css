@@ -60,3 +60,15 @@ ol.a {
 ul.a {
 	list-style-type: square;
 }
+
+div {
+	overflow: hidden;
+}
+
+section.a {
+	background-color: gray;
+}
+
+section.b {
+	background: lightgray;
+}
